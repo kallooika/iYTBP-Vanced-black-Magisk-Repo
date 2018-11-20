@@ -16,4 +16,4 @@ WARNING: Due to the hacky nature of this method there might come up unexpected i
 
 **This repo gets always updated `AFTER` the official Apk variants are available/released so expect up-to-date delays**
 
-[Latest CHANGELOG](http://vanced.cf/Home/Changelogs)
+[Latest CHANGELOG](http://vanced.app/Home/Changelogs)
